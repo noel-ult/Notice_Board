@@ -9,3 +9,7 @@ Only this documentation is present. There are no runtime dependencies, environme
 ## Adding an implementation
 
 When source is added, replace this status with the project's purpose, supported features, prerequisites, exact setup/run commands, configuration, source structure, verification steps, and deployment instructions. Document only behavior implemented in this repository and keep credentials out of examples.
+
+<!-- developer-handbook-20261028 -->
+[Project status and development handoff](docs/PROJECT_GUIDE.md)
+<!-- /developer-handbook-20261028 -->
